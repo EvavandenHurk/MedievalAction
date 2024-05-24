@@ -50,7 +50,7 @@ window.onload = function() {
   // Function to handle button click action
   function handleButtonClick() {
     // Redirect to a new webpage
-    window.location.href = "BowmanSwordsmanHorseman.html"; // Change the URL to your desired webpage
+    window.location.href = "https://evavandenhurk.github.io/MedievalActionGame"; // Change the URL to your desired webpage
   }
 
   // Add event listener to the button for click event
