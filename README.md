@@ -1,4 +1,4 @@
-# MedievalAction
+# Medieval Action
 
 ## Who will win: bowman, swordsman or horseman?
 This is the homepage for the game Medieval Action.
