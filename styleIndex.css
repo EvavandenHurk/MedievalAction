@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url("C:/Users/e.vandenhurk/Documents/Bits and Bots/HTML/Medieval Action/images/achtergrondKasteel.png");
+    background-image: url("images/achtergrondKasteel.png");
 	background-size: cover; /* Makes the background cover the entire body */
     background-position: center; /* Centers the background image */
     background-repeat: no-repeat; /* Prevents the background from repeating */
